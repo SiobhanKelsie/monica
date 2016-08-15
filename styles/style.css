@@ -1,0 +1,182 @@
+ @import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css
+       );
+       
+       
+       
+       
+         body {
+      position: relative;
+      font-family: 'Josefin Slab', serif;
+      padding: 0;
+margin: 0;
+height: auto;
+background-color: blue;
+  }
+  
+  
+  #section1 {
+      padding-top:0px;
+      padding-left:0px;
+      padding-right:0px;
+      height:100vh;
+      color: #fff; 
+      background-color: white;}
+  
+  #section2 {
+      padding-top:0px;
+      height:100vh;
+      width:1905px;
+      color: #fff;
+      background-image:url("http://fineartamerica.com/images/artistlogos/monica-kelsie-1276351890-logo1.jpg");
+      background-size:cover;
+      background-color: #673ab7;}
+      
+  #section3 {
+      padding-top:0px;
+      height:100vh;
+      width:1905px;
+      color: #fff;
+      background-image:url("http://www.shadescalendars.com/DSN/wwwshadescalendarscom/Content/Images/Default/Gbaby%20_Sunflower%20Girl.jpg"); 
+      background-size: cover;
+      background-color: #ff9800;}
+      
+      
+  #section4 {
+      padding-top:0px;
+      height:100vh;
+      width:1905px;
+      color: #fff; 
+      background-image:url("http://www.bizbash.com/content/editorial/storyimg/big/the-la-art-show-modern-contemporary-section.jpg");
+      background-size: cover;
+      background-color: #00bcd4;}
+      
+      
+  #section5 {
+      padding-top:0px;
+      height:100vh;
+      width:1905px;
+      color: #fff;
+      background-image:url("http://static.businessinsider.com/image/4a393a35796c7a30007dc2e3/image.jpg");
+      background-size:cover;
+      background-color: #009688;}
+      
+      
+  #section6 {
+      padding-top:0px;
+      height:150px;
+      width:1905px;
+      color: #fff; 
+      background-color:white;}
+  
+  
+  .navbar {
+      background-color: white;
+      height: 75px;
+     font-family: 'Special Elite', cursive;
+     border-radius: 5px;
+     width:1905px;
+     color: white;
+  }
+  
+  .navbar-brand {
+      font-size: 300%;
+      padding-top: 25px;
+      padding-left: 50px;
+  }
+  
+  .navbar-collapse {
+      font-size: 200%;
+      padding-top: 10px;
+  }
+  
+  .carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+    width: ;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.glyphicon-menu-right {
+   height: 100px;
+   width: 100px;
+   padding-top: 25px;
+   font-size: 50px;
+}
+
+ .btn-default {
+     border: none;
+ }
+ 
+ h1 {
+     font-size: 1000%;
+     margin-top: 200px;
+ }
+ 
+.blank {
+    color: black;
+}
+
+.thumbnail {
+    margin-top: 100px;
+    position: relative;
+    left: 75px;
+}
+
+.can {
+    height: 50px;
+    width: 150px;
+}
+
+label {
+   padding: 10px;
+}
+
+textarea.form-control {
+    height: 100px;
+    width: 650px;
+}
+
+.container-fluid {
+    width:100%;
+}
+
+#gly {
+    position:relative;
+    margin-top: 21%;
+  
+}
+
+#fonts {
+    font-size: 600%;
+    margin-top:7%;
+}
+
+.words {
+    color:black;
+    width: 250px;
+    height: 50px;
+    border-radius:10px;
+}
+
+
+.col-lg-8 {
+    margin-top:150px;
+}
+
+#email{
+    width: 95%;
+}
